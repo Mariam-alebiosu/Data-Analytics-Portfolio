@@ -1,5 +1,5 @@
 -- Contact Centre Performance Analytics
--- Compatible with Snowflake-style SQL with minor syntax adjustments for other warehouses.
+
 
 -- 1. Executive KPI summary
 SELECT

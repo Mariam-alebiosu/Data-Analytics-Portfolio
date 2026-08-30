@@ -2,7 +2,6 @@
 
 Open `contact_centre_dashboard.html` in any modern browser.
 
-The dashboard is self-contained and does not require Python, Tableau, Power BI, or an internet connection.
 
 ## Interactive features
 - Month, channel, team and contact-reason filters
@@ -18,4 +17,4 @@ The dashboard is self-contained and does not require Python, Tableau, Power BI, 
 - Dynamic management insight statement
 
 ## Portfolio positioning
-This project is intentionally presented as a SQL + BI analytics project. The synthetic dataset protects confidential business information while retaining realistic contact-centre KPIs and operational relationships.
+This project is intentionally presented as a SQL + BI analytics project. 
