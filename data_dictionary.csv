@@ -1,0 +1,17 @@
+field,description
+interaction_id,Unique interaction identifier
+interaction_date,Date of interaction
+month,Calendar month (YYYY-MM)
+day_of_week,Day name
+hour,Hour interaction entered the contact centre
+channel,"Voice, Chat or Email"
+contact_reason,Primary reason for contact
+team,Operational team handling the interaction
+customer_region,Customer geography
+wait_time_seconds,Time before service begins
+handle_time_seconds,Agent handling time
+abandoned,1 if customer abandoned before service
+resolved_first_contact,1 if resolved on first contact
+repeat_contact_7d,1 if customer contacted again within 7 days
+within_sla_120s,1 if answered within 120 seconds and not abandoned
+csat_score,"Customer satisfaction score, 1-5; blank if no survey response"
