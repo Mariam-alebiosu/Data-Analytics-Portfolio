@@ -27,7 +27,7 @@ The project demonstrates data cleaning, CTEs, aggregations, window functions, cu
 
 **Tools:** SQL, Commercial Analytics, Customer Analytics, KPI Development
 
-**Data Source:** UCI Machine Learning Repository – Online Retail Dataset https://archive.ics.uci.edu/dataset/352/online+retail?utm_source=chatgpt.com
+**Data Source:** UCI Machine Learning Repository –(https://archive.ics.uci.edu/dataset/352/online+retail)
 
 
 
