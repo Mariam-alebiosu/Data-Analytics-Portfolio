@@ -1,102 +1,50 @@
+
 # Data Analytics Portfolio
 
-A collection of practical data analytics projects demonstrating my experience
-in SQL, business intelligence, dashboard development, KPI analysis and
-commercial and operational performance analytics.
+A collection of data analytics projects demonstrating my experience in SQL, business intelligence, dashboard development, KPI analysis, and commercial and operational performance analytics.
 
 ---
 
-# Project 1: Contact Centre Performance Analytics
+## Project 1: Contact Centre Performance Analytics
 
-## Project Overview
+An end-to-end SQL and BI project analysing 12,000 synthetic customer interactions across Voice, Chat and Email.
 
-An end-to-end SQL and BI portfolio project analysing 12,000 synthetic customer
-interactions across Voice, Chat and Email.
+The analysis explores contact demand, service performance, customer experience, CSAT, abandonment and first-contact resolution, with the results presented through an interactive management dashboard.
 
-The project focuses on operational performance, customer experience and
-avoidable demand while demonstrating how analytical outputs can be translated
-into an interactive management dashboard.
+**Tools:** SQL, BI Dashboard Design, KPI Development, Data Visualisation
 
-## Business Questions
 
-- How efficiently is the contact centre handling demand?
-- Which channels and contact reasons generate the greatest operational pressure?
-- How does waiting time affect CSAT and abandonment?
-- Where is first-contact resolution weakest?
-- Which operational areas should management prioritise?
-
-## Tools
-
-- SQL
-- Interactive Dashboard
-- BI Dashboard Design
-- KPI Development
-
-➡️ 
 
 ---
 
-# Project 2: Interactive Excel Sales Performance Dashboard
+## Project 2: Commercial Performance SQL Analysis
 
-## Project Overview
+A SQL-focused analysis of 541,909 retail transactions, examining revenue performance, customer behaviour, product performance, geographic trends and cancellations.
 
-An interactive Excel dashboard developed to analyse commercial sales
-performance and provide a management-level view of key business metrics.
+The project demonstrates data cleaning, CTEs, aggregations, window functions, customer analysis and commercial KPI development.
 
-The project demonstrates how transactional sales data can be transformed into
-an interactive reporting solution that enables users to monitor performance,
-identify trends and compare results across different areas of the business.
+**Key Analysis:** Revenue Trends, Average Order Value, Repeat Customers, Product Performance, Geographic Performance, Cancellations
 
-## Business Questions
+**Tools:** SQL, Commercial Analytics, Customer Analytics, KPI Development
 
-- How is revenue performing over time?
-- How does actual sales performance compare with budget?
-- Which regions generate the strongest revenue performance?
-- Which product categories contribute most to profitability?
-- How does performance vary across sales channels?
-- Which products are driving overall commercial performance?
+**Data Source:** UCI Machine Learning Repository – Online Retail Dataset https://archive.ics.uci.edu/dataset/352/online+retail?utm_source=chatgpt.com
 
-## Dashboard KPIs
 
-- Revenue
-- Orders
-- Profit
-- Profit Margin
-- Average Order Value
-- Budget Variance
-
-## Interactive Filters
-
-The dashboard allows users to analyse performance by:
-
-- Year
-- Region
-- Product Category
-- Sales Channel
-
-All KPIs, charts and performance tables update dynamically based on the
-selected filters.
-
-## Tools
-
-- Microsoft Excel
-- Interactive Dashboard Development
-- Data Analysis
-- KPI Development
-- Data Visualisation
-- Commercial Performance Analysis
-
-## Workbook
-
-The Excel workbook contains the complete project, including the underlying
-dataset, calculations, supporting analysis and interactive dashboard.
-
-➡️ 
 
 ---
 
-# About This Portfolio
+## Project 3: Interactive Excel Sales Performance Dashboard
 
-These projects demonstrate my approach to analytics from business problem
-definition through data analysis, KPI development and visualisation to the
-communication of actionable business insights.
+An interactive Excel dashboard designed to provide a management-level view of sales and commercial performance.
+
+The dashboard tracks revenue, orders, profit, margin, average order value and budget variance, with dynamic filtering by year, region, product category and sales channel.
+
+**Tools:** Microsoft Excel, Data Analysis, KPI Development, Data Visualisation, Commercial Performance Analysis
+
+➡️ https://github.com/Mariam-alebiosu/Data-Analytics-Portfolio/blob/main/Excel%20Project%20Sales%20Dashboard.xlsm
+
+---
+
+## About This Portfolio
+
+These projects demonstrate my approach to analytics, from data preparation and analysis through KPI development, visualisation and the communication of actionable business insights.
