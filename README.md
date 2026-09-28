@@ -41,7 +41,7 @@ The dashboard tracks revenue, orders, profit, margin, average order value and bu
 
 **Tools:** Microsoft Excel, Data Analysis, KPI Development, Data Visualisation, Commercial Performance Analysis
 
-➡️ https://github.com/Mariam-alebiosu/Data-Analytics-Portfolio/blob/main/Excel%20Project%20Sales%20Dashboard.xlsm
+➡️(https://github.com/Mariam-alebiosu/Data-Analytics-Portfolio/blob/main/Project%203%3A%20Excel%20Project%20Sales%20Dashboard.xlsm)
 
 ---
 
