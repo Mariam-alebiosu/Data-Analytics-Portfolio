@@ -2,8 +2,7 @@
 ============================================================
 COMMERCIAL PERFORMANCE SQL ANALYSIS
 Dataset: UCI Online Retail
-SQL dialect: Snowflake-style SQL
-Assumed source table: ONLINE_RETAIL
+
 ============================================================
 */
 
